@@ -1,0 +1,1 @@
+python image_extractor.py -i sample_image.jpg -o extracted_rect.png --width 900 --height 600
